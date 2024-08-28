@@ -1,7 +1,7 @@
 # Urban Transit Predictive Maintenance Week 2
 
 ## Project Description
-This repository contains the code and documentation for the second week of the Predictive Maintenance project using NYC Taxi Trip data. This phase involved advanced preprocessing, model training, and evaluation, along with generating insights from the results.
+This repository contains the code and documentation for the second week of the Predictive Maintenance project using NYC Taxi Trip data. This phase involved advanced preprocessing, model training, and evaluation, along with generating insights from the results. This demonstrates the week 2 project of 'Project of The Week' series that I did on my linkedin profile.
 
 ## Project Overview
 The focus was on analyzing NYC Taxi Trip data, including trip distance, fare amount, and passenger count, to predict maintenance needs. Key aspects included model training and evaluation.
