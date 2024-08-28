@@ -15,6 +15,10 @@ The focus was on analyzing NYC Taxi Trip data, including trip distance, fare amo
 2. **Model Evaluation**: Assessing model performance using metrics like Mean Squared Error (MSE) and R^2 Score.
 3. **Visualizations**:
    - **Actual vs. Predicted RUL**: Compares predicted Remaining Useful Life with actual values.
+     ![Actual vs. Predicted RUL](Visualizations/predvsact.png)
    - **Distribution of Trip Duration**: Shows the frequency distribution of trip lengths.
+     ![Distribution of Trip DurationL](Visualizations/tdur.png)
    - **Correlation Matrix**: Displays relationships between features.
+     ![Correlation Matrix](Visualizations/confs.png)
    - **Feature Importance**: Highlights the significance of each feature in the model.
+   - ![Feature Importance](Visualizations/feature_importance.png)
